@@ -1,4 +1,4 @@
-# 🇹🇷 Türkiye Deprem Analizi (2000–2025)
+# Türkiye Deprem Analizi (2000–2025)
 
 ## ⚠️ Uyarı
 
